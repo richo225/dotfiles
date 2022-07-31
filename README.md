@@ -1,6 +1,6 @@
 # .files
 
-My dotfiles based on the amazing https://github.com/webpro/dotfiles
+My personal dotfiles for macOS and fish, based on the amazing https://github.com/webpro/dotfiles
 
 ## Installation
 
